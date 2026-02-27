@@ -5,3 +5,5 @@ This is a devops nginx demo. This project helps you install nginx on linux and t
 
 sudo apt-get update
 sudo apt-install nginx
+
+sudo systemctl start nginx
